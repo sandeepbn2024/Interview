@@ -1,0 +1,13 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars
+*.tfvars
+*.tfvars.json
+
+# generated files
+hello_payload.zip
